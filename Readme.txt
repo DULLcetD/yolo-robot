@@ -1,0 +1,1 @@
+This is a repository to encouage my learning of code. There may be a veritable mashing up of things but feel free to reuse in the spirit of the GPL v.3 and Opensource software. Thanks. One life, YOLO-Robot.
